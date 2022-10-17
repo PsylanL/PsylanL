@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PsylanL a Colombian student that loves new technologies creative code.
+- 👋 Hi, I’m @PsylanL a Colombian student that loves new technologies & creative code.
 - 🌱 I’m currently learning JavaScript, React, Python, Web 3.0.
 - 💞️ I’m looking to collaborate on Web pages.
 - 📫 How to reach me - Write me an email!
